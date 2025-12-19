@@ -71,14 +71,14 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
+## 🏅 Holopin Badges
+[![An image of @K2976's Holopin badges](https://holopin.me/K2976)](https://holopin.io/@K2976)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ## 🟡 Contribution Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K2976/K2976/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/K2976/K2976/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/K2976/K2976/output/pacman-contribution-graph.svg">
 </picture>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🏅 Holopin Badges
-[![An image of @K2976's Holopin badges](https://holopin.me/K2976)](https://holopin.io/@K2976)
