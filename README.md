@@ -82,3 +82,31 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/K2976/K2976/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/K2976/K2976/output/pacman-contribution-graph.svg">
 </picture>
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/> -->
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kartik2976" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="52" height="40" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:sanghikartik2976@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="52" height="40" alt="Gmail" />
+  </a>
+
+ <!--  discord 
+ <a href="https://discord.gg/YOUR_INVITE_OR_PROFILE" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+         width="52" height="40" alt="Discord" />
+  </a>
+ tryhackme
+    <a href="https://tryhackme.com/p/YOUR_USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg"
+         width="52" height="40" alt="TryHackMe" />
+  </a>
+</div>
+  -->
+
+###
