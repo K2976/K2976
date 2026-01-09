@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## About Me
-🌱 Learning **MERN stack** alongside **Cybersecurity & Bug Bounty**  
+🌱 Learning **iOS Development** alongside **Cybersecurity & Bug Bounty**  
 🧠 Playing **CTFs part-time** to build a security-first mindset  
 🤝 Looking to collaborate on **open-source projects**  
 ⚡ Fun fact: breaking things is part of the learning process  
