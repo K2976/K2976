@@ -69,7 +69,7 @@ Here are some ideas to get you started:
     style="display:inline-block;"
   />
 </div>
-
+<!-- MYTHX{hulk_smaaash} -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🏅 Holopin Badges
